@@ -1,0 +1,3 @@
+name: EnchantRemover
+version: @version@
+main: n3wb13.enchantremover.Main
